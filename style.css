@@ -11,7 +11,7 @@ background-color:#00E640;
   background-size: cover;
 }
 
-}
+
 footer{
 text-align:center;
 }
@@ -47,4 +47,14 @@ opacity:1.0;
 padding:20px;
 font-family:Monotype Corsiva;
 font-size:27px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:darkgreen;
+  color: white;
+  text-align: center;
 }
