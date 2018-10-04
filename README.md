@@ -1,7 +1,7 @@
 <h1 align="center">
 	<br>
 	<a href="http://www.amitmerchant.com/electron-markdownify">
-		<img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200">
+		<img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.PNG" alt="Markdownify" width="200">
 	</a>
 	<br>
 	Random Quote Generator
@@ -11,7 +11,6 @@
 <h4 align="center">
 	This app will generates the random quotes.
 </h4>
-
 
 <h3 align="center">
 	The quotes may motivate you.
