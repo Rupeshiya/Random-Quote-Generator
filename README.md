@@ -2,7 +2,10 @@
 
 A site to seek for Random Quotes. 🍃
 
-[![Deepin_Screenshot_select-area_20181003222531.png](https://i.postimg.cc/v8jHnWYn/Deepin_Screenshot_select-area_20181003222531.png)](https://postimg.cc/LhtpKgZ4)
+# Screenshot
+
+![screensot](https://drive.google.com/uc?export=view&id=1NeEF5vU7-7gC46rT_iE7H0bz27CxBi8t)
+
 
 
 #### Warning :warning:
