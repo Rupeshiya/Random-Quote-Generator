@@ -7,6 +7,9 @@ A site to seek for Random Quotes. 🍃
 
 #### Warning :warning:
 The quotes may motivate you!
+
 ## Live demo [here](https://rupeshiya.github.io/Random-Quote-Generator/)!
 
 ##### Made with :coffee: :heart: :headphones: by @[rupeshiya](https://github.com/Rupeshiya)
+
+thanks for contribute...
