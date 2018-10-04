@@ -1,5 +1,7 @@
 # Random Quote Generator 💬
 
+![Imgur](https://i.imgur.com/aXK4CMN.png)
+
 A site to seek for Random Quotes. 🍃
 
 [![Deepin_Screenshot_select-area_20181003222531.png](https://i.postimg.cc/v8jHnWYn/Deepin_Screenshot_select-area_20181003222531.png)](https://postimg.cc/LhtpKgZ4)
