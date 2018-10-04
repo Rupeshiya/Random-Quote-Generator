@@ -1,10 +1,12 @@
-# Random-Quote-Generator
-This generates the random quotes.
-:fire: :ok_hand:
+# Random Quote Generator 💬
 
-## Live demo at :-
+A site to seek for Random Quotes. 🍃
 
-https://rupeshiya.github.io/Random-Quote-Generator/
+[![Deepin_Screenshot_select-area_20181003222531.png](https://i.postimg.cc/v8jHnWYn/Deepin_Screenshot_select-area_20181003222531.png)](https://postimg.cc/LhtpKgZ4)
 
-## :warning: !!- The quotes may motivate you.
-## Made by :coffee: :heart: :headphones: rupeshiya
+
+#### Warning :warning:
+The quotes may motivate you!
+## Live demo [here](https://rupeshiya.github.io/Random-Quote-Generator/)!
+
+##### Made with :coffee: :heart: :headphones: by @[rupeshiya](https://github.com/Rupeshiya)
