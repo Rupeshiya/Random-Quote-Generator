@@ -26,7 +26,7 @@ $(document).ready(function() {
   };
   newQuote();
 
-  $('#get-quote').click(function(event) {
+  $('.dir').click(function(event) {
     event.preventDefault();
     newQuote();
   });

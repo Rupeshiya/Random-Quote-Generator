@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  font-family: "europa", Futura, Arial, sans-serif;
 }
 .background {
 	perspective: 1000px;
@@ -12,7 +13,7 @@ body {
 	height: 100%;
 	top: 0;
 	left: 0;
-	background-image: url(../img/1.jpg);
+	background-image: url("../img/1.jpg");
 	background-position: 50% 0%;
 	background-size: cover;
 	z-index: 1;
@@ -44,6 +45,23 @@ body {
   height: 100%;
   top: 0;
   left: 0;
+}
+
+.body-card .dir {
+  padding: 50px 50px;
+  color: white;
+  text-decoration: none;
+  background-color: rgba(255,255,255,0.1);
+  border-radius: 10px;
+  font-size: 30px;
+}
+
+.body-card .dir:hover {
+  background-color: rgba(255,255,255,0.3);
+}
+
+.body-card .dir-next {
+  margin-right: 5px;
 }
 
 .body-card .card {
