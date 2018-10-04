@@ -12,6 +12,7 @@
 	This app will generates the random quotes.
 </h4>
 
+
 <h3 align="center">
 	The quotes may motivate you.
 </h3>
