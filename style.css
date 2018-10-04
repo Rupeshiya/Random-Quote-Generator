@@ -7,7 +7,7 @@ text-align:center;
 }
 body.hello{
 background-color:#00E640;
-  background: url(http://eslhiphop.com/images/fcc/quotebg.jpg) no-repeat center center fixed;
+  background: url(https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/2348952/1160/772/m1/fpnw/wm1/black-brick-wall-2-.-.jpg?1488383694&s=f8aefcb8499d7ee7afc4b2ab9093ae5e) no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -20,7 +20,7 @@ box-shadow:0 4px 8px;
 translation:0.3s;
 width:auto;
 height:auto;
-background-color:#90C695;
+background: url("https://www.muralswallpaper.com/app/uploads/clean-white-brick-wall-textures-room-820x532.jpg");
 text-align:center;
   opacity:0.8;
   border-radius:15px;
@@ -47,4 +47,9 @@ opacity:1.0;
 padding:20px;
 font-family:Monotype Corsiva;
 font-size:27px;
+}
+
+h1.well{
+background-color: gainsboro;
+background: url("https://www.muralswallpaper.com/app/uploads/clean-white-brick-wall-textures-room-820x532.jpg")
 }
