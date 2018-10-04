@@ -1,4 +1,5 @@
 # Random-Quote-Generator
+![Imgur](https://i.imgur.com/aXK4CMN.png)
 This generates the random quotes.
 :fire: :ok_hand:
 
