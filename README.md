@@ -1,7 +1,7 @@
 <h1 align="center">
 	<br>
 	<a href="https://github.com/Rupeshiya/Random-Quote-Generator">
-		<img src="https://postimg.cc/m1G9hp45" alt="Random Quote Generator" width="200">
+		<img src="https://i.postimg.cc/j2D4gBFt/quote-generator.png" alt="Random Quote Generator" width="200">
 	</a>
 	<br>
 	Random Quote Generator
