@@ -12,7 +12,7 @@
 	This app will generates the random quotes.
 </h4>
 
-<h3 align="center" style="color: yellow;">
+<h3 align="center">
 	The quotes may motivate you.
 </h3>
 
@@ -40,7 +40,7 @@
 	<a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://raw.githubusercontent.com/imronreviady/Random-Quote-Generator/readme-rebuild/img/screenshoot.png)
 
 ## Key Features
 
