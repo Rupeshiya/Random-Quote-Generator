@@ -1,0 +1,144 @@
+body {
+  margin: 0;
+}
+.background {
+	perspective: 1000px;
+}
+
+.background,
+.background__copy {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background-image: url(../img/1.jpg);
+	background-position: 50% 0%;
+	background-size: cover;
+	z-index: 1;
+}
+
+.background__copy {
+	opacity: 0.3;
+}
+
+.overlay {
+  z-index: 2;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+#body-wrapper {
+  position: relative;
+  z-index: 3;
+  height: 100%;
+}
+
+.body-card {
+  display: flex;
+  position: absolute;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+.body-card .card {
+  width: 45%;
+  margin: 0 auto;
+}
+
+.top-layer {
+  text-align: center;
+}
+.top-bar h1 {
+  color: #f9f9f9;
+  margin: 0px;
+  margin-left: 10px;
+  font-size: 25px;
+  font-family: "sabbath-black", serif;
+}
+
+.top-bar svg {
+  width: 80px;
+  fill: #fff;
+}
+
+.top-bar line {
+  stroke: #fff;
+}
+
+.bottom-bar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.bottom-bar .list-inline {
+  margin: 0px;
+  color: white;
+  list-style: none;
+}
+
+.bottom-bar .list-inline li {
+  display: inline-block;
+  margin: 10px;
+}
+.bottom-bar .list-inline a {
+  color: white;
+  font-size: 20px;
+}
+
+.bottom-bar .copyright {
+  color: white;
+  font-weight: 100;
+  font-family: "europa", Futura, Arial, sans-serif;
+  font-size: 10px;
+  margin-bottom: 10px;
+}
+
+.card .quote-text {
+  color: #fff;
+  font-size: 30px;
+  line-height: 45px;
+  font-family: "europa", Futura, Arial, sans-serif;
+}
+
+.card .quote-text:before {
+  content: "“ "
+}
+
+.card .quote-text:after {
+  content: " ”"
+}
+
+.card .card-author {
+  font-size: 20px;
+  color: #e23434;
+  text-align: right;
+  display: block;
+  font-family: "europa", Futura, Arial, sans-serif;
+  font-style: italic;
+}
+
+.card .card-author:before {
+  content: "";
+  width: 20px;
+  background-color: #fff;
+  margin-right: 5px;
+  display: inline-block;
+  height: 5px;
+  vertical-align: middle;
+  margin-bottom: 5px;
+}
+
+@media screen and (max-width: 650px) {
+  .body-card .card {
+    width: 95%;
+  }
+}

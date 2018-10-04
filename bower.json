@@ -1,0 +1,20 @@
+{
+  "name": "Random-Quote-Generator",
+  "homepage": "https://github.com/Rupeshiya/Random-Quote-Generator",
+  "authors": [
+    "Jorge Chavez <jchavz@switchfly.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gsap": "^2.0.2"
+  }
+}
