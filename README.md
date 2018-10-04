@@ -1,7 +1,7 @@
 <h1 align="center">
 	<br>
 	<a href="http://www.amitmerchant.com/electron-markdownify">
-		<img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.PNG" alt="Markdownify" width="200">
+		<img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200">
 	</a>
 	<br>
 	Random Quote Generator
@@ -40,7 +40,7 @@
 	<a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/imronreviady/Random-Quote-Generator/readme-rebuild/img/screenshoot.png)
+![screenshot](https://raw.githubusercontent.com/imronreviady/Random-Quote-Generator/readme-rebuild/img/screenshoot.PNG)
 
 ## Key Features
 
