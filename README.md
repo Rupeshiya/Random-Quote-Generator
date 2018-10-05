@@ -10,3 +10,5 @@ The quotes may motivate you!
 ## Live demo [here](https://rupeshiya.github.io/Random-Quote-Generator/)!
 
 ##### Made with :coffee: :heart: :headphones: by @[rupeshiya](https://github.com/Rupeshiya)
+Logo :- 
+/home/vinay/Random-Quote-Generator/logo1.jpeg
